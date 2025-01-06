@@ -1,1 +1,7 @@
+title: Alexandra Le Reste
+url: https://alereste.github.io/
+
+# Build settings
 theme: jekyll-theme-clean-blog
+plugins: 
+  - jekyll-feed
