@@ -1,2 +1,4 @@
-# alereste.github.io
-Website
+# Alexandra Le Reste  
+Post-doctoral researcher, University of Minnesota.  
+
+Website in progress...
