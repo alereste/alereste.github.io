@@ -1,10 +1,6 @@
 title: Alexandra Le Reste
 author: Alexandra Le Reste
-url: https://alereste.github.io/
-
-navbar-links:
-  About Me: "aboutme"
 
 # Build settings
-theme: jekyll-theme-clean-blog
+remote_theme: jekyll/minimal
 
